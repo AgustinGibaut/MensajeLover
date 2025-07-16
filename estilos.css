@@ -20,7 +20,7 @@ body {
   }
 }
 
-/* Partículas */
+
 .particles {
   position: fixed;
   top: 0; left: 0;
@@ -46,7 +46,7 @@ body {
   }
 }
 
-/* Botón centrado */
+
 .center-btn {
   font-size: 1.1rem;
   padding: 0.7rem 1.5rem;
@@ -64,7 +64,7 @@ body {
   transform: scale(1.05);
 }
 
-/* Diálogo */
+
 dialog {
   border: none;
   border-radius: 10px;
@@ -97,7 +97,7 @@ dialog.closing {
   100% {opacity:0; transform: scale(0.7);}
 }
 
-/* Botón X */
+
 .close-x {
   position: absolute;
   top: 0.5rem;
@@ -115,7 +115,7 @@ dialog.closing {
   color: #ff0066;
 }
 
-/* Contenedor carga */
+
 #loading-screen {
   position: fixed;
   top:0; left:0;
